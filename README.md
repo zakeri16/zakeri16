@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zakeri16
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web developing
 - 📫 How to reach me ...
 
 <!---
